@@ -1,0 +1,4 @@
+.scroll-wrapper{
+    overflow-y: auto;
+    height: 720px;
+}
